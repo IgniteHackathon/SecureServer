@@ -1,0 +1,33 @@
+
+[
+    {
+        "user_id" : "mock_001",
+        "password" : "mock123",
+        "username" : "David",
+        "accounts" : [
+            {
+                "account_no" : "C1305486145",
+                "balance" : 2300.00
+            },
+            {
+                "account_no" : "C2048537720",
+                "balance" : 3000.00
+            }
+        ]
+    },
+    {
+        "user_id" : "mock_002",
+        "username" : "Nick",
+        "password" : "mock123",
+        "accounts" : [
+            {
+                "account_no" : "C1666544295",
+                "balance" : 120.00
+            },
+            {
+                "account_no" : "C2048537720",
+                "balance" : 3000.00
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+
+[
+    {
+        "name" : "Freshco Grocery",
+        "id" : "M600251368",
+        "image" : "merchant_001.jpg" 
+    },
+    {
+        "name" : "V Mart",
+        "id" : "M1342095055",
+        "image" : "merchant_002.jpg" 
+    },
+    {
+        "name" : "Spencers Garia Branch",
+        "id" : "M82358382",
+        "image" : "merchant_003.jpg" 
+    }
+    ,
+    {
+        "name" : "North Indian Fresh",
+        "id" : "M1041291131",
+        "image" : "merchant_004.jpg" 
+    }
+    ,{
+        "name" : "Bombay Food Mart",
+        "id" : "M232850221",
+        "image" : "merchant_005.jpg" 
+    }
+    ,{
+        "name" : "Hindustan Sweets",
+        "id" : "M766963160",
+        "image" : "merchant_006.jpg" 
+    }
+    ,{
+        "name" : "Joy of Spicy",
+        "id" : "M2003836062",
+        "image" : "merchant_007.jpg" 
+    }
+    ,{
+        "name" : "Hindustan Watch",
+        "id" : "M1184343141",
+        "image" : "merchant_008.jpg" 
+    },
+    {
+        "name" : "Grocery mary",
+        "id" : "M413109682",
+        "image" : "merchant_009.jpg" 
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "C1494895909",
+        "branch_name" : "Icici Bank - Kolkata",
+        "image" : "atm1.jpg",
+        "balance_amount" : 300000.00
+    },
+    {
+        "id" : "C634210724",
+        "branch_name" : "Bank of Baroda - Saltlake",
+        "image" : "atm2.jpg",
+        "balance_amount" : 180000.00
+    },
+    {
+        "id" : "C1778801068",
+        "branch_name" : "Indian Bank - New Town",
+        "image" : "atm3.jpg",
+        "balance_amount" : 7890000.00
+    },
+    {
+        "id" : "C1725548614",
+        "branch_name" : "Icicibank - Sector V",
+        "image" : "atm4.jpg",
+        "balance_amount" : 9000000.00
+    },
+    {
+        "id" : "C1348373832",
+        "branch_name" : "SBI bank - Central",
+        "image" : "atm5.jpg",
+        "balance_amount" : 340000.00
+    },
+    {
+        "id" : "C1334009667",
+        "branch_name" : "Bank of  Maharastra - Behala",
+        "image" : "atm6.jpg",
+        "balance_amount" : 8700000.00
+    },
+    {
+        "id" : "C361943462",
+        "branch_name" : "Indasind Bank - Garia",
+        "image" : "atm7.jpg",
+        "balance_amount" : 980000.00
+    }
+
+
+]
