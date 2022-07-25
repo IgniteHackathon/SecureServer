@@ -1,15 +1,16 @@
 
 # Flask code to read ai model and response prediction (0 to 1)
 
-# from crypt import methods
-#import json
+from crypt import methods
+import json
 from flask import Flask, jsonify, send_from_directory, request
 
-# import tensorflow as tf
-# import numpy as np
-# import pandas as pd
+import tensorflow as tf
+import numpy as np
+import pandas as pd
 
 app = Flask(__name__)
+
 @app.route('/hello',methods = ['GET'])
 def sayHello():
     return "hello"
